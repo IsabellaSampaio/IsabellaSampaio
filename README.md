@@ -2,7 +2,6 @@
 
 - 📌 Criando projetos em desenvolvimento web, mais especificamente no front-end 
 - 📓 Estudando Html, CSS, JavaScript, react e Python. 
-- ✨ Pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/IsabellaSampaio">
