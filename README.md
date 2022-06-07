@@ -1,7 +1,7 @@
 ## Olá, eu sou a Isabella Sampaio, estudante de programação e tecnologia! 
 
 - 📌 Criando projetos em desenvolvimento web, mais especificamente no front-end 
-- 📓 Estudando Html, CSS, JavaScript, react e Python. 
+- 📓 Estudando Html, CSS, JavaScript e Python. 
 
 <div align="center">
   <a href="https://github.com/IsabellaSampaio">
