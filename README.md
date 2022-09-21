@@ -1,6 +1,6 @@
 ## *PT-BR*
 
-## Olá, eu sou a Isabella, programadora e estudante tecnologia! 
+## Olá, eu sou a Isabella, programadora e estudante de tecnologia! 
 
 - 📌 Criando projetos em desenvolvimento web e mais mais algumas coisinhas 
 - 📓 Atualmente estudando C e algumas bibliotecas em python. 
