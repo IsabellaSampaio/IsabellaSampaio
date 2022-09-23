@@ -3,7 +3,7 @@
 ## Olá, eu sou a Isabella, programadora e estudante de tecnologia! 
 
 - 📌 Criando projetos em desenvolvimento web e mais mais algumas coisinhas 
-- 📓 Atualmente estudando C e algumas bibliotecas em python. 
+- 📓 Atualmente estudando Java e JavaScript. 
 - Eu amo python <3!!
 
 ## *EN*
@@ -11,7 +11,7 @@
 ## Hi!! I'm Isabella, programmer & technology student!
 
 - 📌 Creating projects in web development and some other stuff
-- 📓 Currently studying C and Python libs.
+- 📓 Currently studying Java and JavaScript.
 - I love python <3!!
 
 
