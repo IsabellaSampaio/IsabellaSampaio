@@ -8,7 +8,7 @@
 
 ## *EN*
 
-## Hi!! I'm Isabella, programmer & technology student!
+## Hi, I'm Isabella, programmer & technology student!
 
 - 📌 Creating projects in web development and some other stuff
 - 📓 Currently studying Java and JavaScript.
