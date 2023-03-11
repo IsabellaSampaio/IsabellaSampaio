@@ -4,8 +4,8 @@
 
 - Desenvolvendo aplicações (web e mobile)
 - Pesquisadora de visão computacional e inovação de empreendimentos
-a
-## *EN*
+
+## *EN-US*
 
 ## Hi, I'm Isabella, programmer and researcher!
 
