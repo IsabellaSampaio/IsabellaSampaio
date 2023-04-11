@@ -12,14 +12,6 @@
 - Developing applications (web and mobile)
 - Inovation and Computer Vision Researcher
 
-
- <div>
-  <a href="https://github.com/IsabellaSampaio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsabellaSampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaSampaio&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-
 <div align="center">
   <a href="https://github.com/IsabellaSampaio">
 </div>
@@ -45,6 +37,8 @@
   <a href="https://www.linkedin.com/in/isabella-sampaio-2a6797222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+![](https://komarev.com/ghpvc/?username=IsabellaSampaio)
   
   
   
