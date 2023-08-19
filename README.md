@@ -1,12 +1,3 @@
-## *PT-BR*
-
-## Olá, eu sou a Isabella, programadora e pesquisadora!
-
-- Desenvolvendo aplicações (web e mobile)
-- Pesquisadora de visão computacional e inovação de empreendimentos
-
-## *EN-US*
-
 ## Hi, I'm Isabella, programmer and researcher!
 
 - Developing applications (web and mobile)
